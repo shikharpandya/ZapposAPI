@@ -1,4 +1,4 @@
-# easyshop_db
+# ZAPPOS APIs
 
 <b>ZapposAPI is an Ecommerce website which works on the backgroud of a MYSQL as the Database.</b>
 
